@@ -541,7 +541,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Don Eladio",
-    img: "69MA7Fy.png",
+    img: "4w59Apu.png",
     opts: {
       series: ["brba", "bcs"],
       imp: ["side"],
@@ -549,7 +549,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Juan Bolsa",
-    img: "4w59Apu.png",
+    img: "69MA7Fy.png",
     opts: {
       series: ["brba", "bcs"],
       imp: ["side"],
