@@ -555,4 +555,36 @@ dataSet[dataSetVersion].characterData = [
       imp: ["side"],
     },
   },
+  {
+    name: "Marie Schrader",
+    img: "rXm1KMF.png",
+    opts: {
+      series: ["brba"],
+      imp: ["main"],
+    },
+  },
+  {
+    name: "Marion",
+    img: "zg9M5wJ.png",
+    opts: {
+      series: ["bcs"],
+      imp: ["side"],
+    },
+  },
+  {
+    name: "Jeff",
+    img: "ucnPRQr.png",
+    opts: {
+      series: ["bcs"],
+      imp: ["side"],
+    },
+  },
+  {
+    name: "Wendy S.",
+    img: "X8E8pL8.png",
+    opts: {
+      series: ["bcs", "brba"],
+      imp: ["side"],
+    },
+  },
 ];
