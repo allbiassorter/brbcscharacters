@@ -587,4 +587,12 @@ dataSet[dataSetVersion].characterData = [
       imp: ["side"],
     },
   },
+  {
+    name: "Daniel Wormald",
+    img: "uTtD1NT.png",
+    opts: {
+      series: ["bcs"],
+      imp: ["side"],
+    },
+  },
 ];
